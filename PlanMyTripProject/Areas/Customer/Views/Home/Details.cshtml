@@ -1,0 +1,31 @@
+﻿@model MyAppModels.Cart
+
+<h1>Product Details</h1>
+<form method="post">
+    
+    <div class="row">
+        <div class="col-4">
+            <img src="@Model.Hotel.ImageUrl" width="200" height="200"/>
+           
+        </div>
+         <input type="hidden" asp-for="HotelId" />
+        <div class="col-8">
+            <label asp-for="Hotel.Name"><strong class="text-danger">Hotel Name:</strong>  @Model.Hotel.Name</label><br />
+             <label asp-for="Hotel.Description"><strong class="text-danger">Hotel Description:</strong>  @Model.Hotel.Description</label><br />
+              <label asp-for="Hotel.Price"><strong class="text-danger">Hotel Price:</strong>  @Model.Hotel.Price</label><br />
+                <label asp-for="Hotel.Category.Id"><strong class="text-danger">Category:</strong>  @Model.Hotel.Category.Name</label><br />
+                <label asp-for="Hotel.Location"><strong class="text-danger">Location:</strong>  @Model.Hotel.Location</label><br />
+                 <div class="row mb-3 form-group">
+                <strong class="text-danger"><label asp-for="Count"></label></strong>
+                <input asp-for="Count" class="form-control" type="number"/>
+                <span asp-validation-for="Count" class="text-danger"></span>
+
+            <div class="form-control">
+                <button class="btn btn-success" asp-action="Index" asp-controller="Home">Back to Hotels</button>
+                 <button class="btn btn-danger" type="submit" name="submit">Add to cart</button>
+            </div>
+            
+        </div>
+        </div>
+    </div>
+</form>

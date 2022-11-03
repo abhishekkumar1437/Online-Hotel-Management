@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Identity.UI.V4.Pages.Account.Internal
+@model RegisterModel 
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "ROLES";
+}
+  
+<h1 class="bg-info text-white">All Roles</h1>
+<a asp-action="Create" class="btn btn-secondary">Create a Role</a>
+  
+<table class="table table-sm table-bordered table-bordered">
+    <tr><th>ID</th><th>Name</th><th>Users</th><th>Update</th><th>Delete</th></tr>
+    
+        <tr>
+            <td>@UserManager.GetUserName(User)</td>
+            <td>@UserManager.GetUserId(User)</td>
+           
+            
+        </tr>
+    
+</table>

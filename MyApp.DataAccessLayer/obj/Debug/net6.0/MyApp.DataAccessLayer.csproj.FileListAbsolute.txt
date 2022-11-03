@@ -1,0 +1,15 @@
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.deps.json
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\bin\Debug\net6.0\MyAppModels.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\bin\Debug\net6.0\MyAppModels.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.AssemblyReference.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.AssemblyInfoInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.AssemblyInfo.cs
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.CopyComplete
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\refint\MyApp.DataAccessLayer.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyApp.DataAccessLayer\obj\Debug\net6.0\ref\MyApp.DataAccessLayer.dll

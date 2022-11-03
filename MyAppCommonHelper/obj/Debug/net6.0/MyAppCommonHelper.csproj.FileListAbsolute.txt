@@ -1,0 +1,12 @@
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\bin\Debug\net6.0\MyAppCommonHelper.deps.json
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\bin\Debug\net6.0\MyAppCommonHelper.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\bin\Debug\net6.0\MyAppCommonHelper.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.csproj.AssemblyReference.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.AssemblyInfoInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.AssemblyInfo.cs
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.csproj.CoreCompileInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\refint\MyAppCommonHelper.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\MyAppCommonHelper.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppCommonHelper\obj\Debug\net6.0\ref\MyAppCommonHelper.dll

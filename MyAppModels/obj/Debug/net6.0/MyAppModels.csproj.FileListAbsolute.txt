@@ -1,0 +1,12 @@
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\bin\Debug\net6.0\MyAppModels.deps.json
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\bin\Debug\net6.0\MyAppModels.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\bin\Debug\net6.0\MyAppModels.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.csproj.AssemblyReference.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.AssemblyInfoInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.AssemblyInfo.cs
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.csproj.CoreCompileInputs.cache
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\refint\MyAppModels.dll
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\MyAppModels.pdb
+E:\c# assignment\dotNetProjects\PlanMyTrip\MyAppModels\obj\Debug\net6.0\ref\MyAppModels.dll

@@ -1,0 +1,44 @@
+﻿@model MyAppModels.ViewModels.CategoryVM
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post" >
+    <input type="hidden" asp-for="Category.Id"/>
+     
+    <div class="border pt-3  m-4 form-group">
+        <div class="row pb-3">
+            <h2 class="text-primary">@((Model.Category==null || Model.Category.Id==0) ?"Create":"Update") Category</h2>
+            <hr/>
+        </div>
+        <div asp-validation-summary=All></div>
+        <div class="row mb-3 form-group">
+            <label asp-for="Category.Name"></label>
+            <input asp-for="Category.Name" class="form-control"/>
+            <span asp-validation-for="Category.Name" class="text-danger"></span>
+        </div>
+         <div class="row mb-3 form-group">
+            <label asp-for="Category.Description"></label>
+            <input asp-for="Category.Description" class="form-control"/>
+             <span asp-validation-for="Category.Description" class="text-danger"></span>
+        </div>
+        @if(Model.Category==null || Model.Category.Id==0)
+        {
+            <button class="btn btn-primary" type="submit">Create</button>
+        }
+        else
+        {
+             <button class="btn btn-primary" type="submit">Update</button>
+        }
+    </div>
+    <a asp-action="Category" asp-controller="Category"> Back to List</a>
+</form>
+
+<!--- for Client side validation
+request will not go to the server-->
+@section scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
